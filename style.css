@@ -1,0 +1,77 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .logo {
+    width: 80px;
+    margin-bottom: 10px;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    color: #ccc;
+    margin-bottom: 30px;
+
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 300px;
+    margin: 0 auto 30px;
+  }
+  
+  .btn {
+    padding: 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    transition: 0.3s;
+  }
+  
+  .btn:hover {
+    opacity: 0.85;
+  }
+  
+  .linkedin { background: #0077b5; }
+  .bluesky { background: #0085ff; }
+  .coffee { background: #ffdd00; color: #000; }
+  .discord { background: #5865f2; }
+  .email { background: #5c6bc0; }
+  .facebook { background: #1877f2; }
+  .messenger { background: linear-gradient(to right, #00b2ff, #006aff); }
+  .figma { background: #0acf83; }
+  .github { background: #24292e; }
+  .instagram { background: linear-gradient(to right, #feda75, #d62976, #962fbf); }
+  .mastodon { background: #6364ff; }
+  .spotify { background: #1db954; }
+  .steam { background: #1b2838; }
+  .substack { background: #ff6719; }
+  .telegram { background: #0088cc; }
+  .tiktok { background: #000000; }
+  .twitch { background: #9146ff; }
+  .youtube { background: #ff0000; }
+  
+  footer {
+    font-size: 0.8rem;
+    color: #aaa;
+  }
+
+ 
